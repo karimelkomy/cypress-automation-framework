@@ -1,2 +1,2 @@
-# cypress-automation-framework
+# Cypress Automation Tests
 Cypress Tests
